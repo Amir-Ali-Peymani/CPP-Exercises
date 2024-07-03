@@ -1,14 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CodeLite_Workspace Name="Inheritence" Database="" Version="10000">
   <Project Name="Challenge" Path="Challenge/Challenge.project" Active="Yes"/>
+  <Project Name="Deriving-Our-Firs-Class" Path="Deriving-Our-Firs-Class/Deriving-Our-Firs-Class.project"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
       <Project Name="Challenge" ConfigName="Debug"/>
+      <Project Name="Deriving-Our-Firs-Class" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
       <Project Name="Challenge" ConfigName="Release"/>
+      <Project Name="Deriving-Our-Firs-Class" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
