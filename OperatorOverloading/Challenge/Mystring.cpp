@@ -53,8 +53,9 @@ Mystring &Mystring::operator=(Mystring &&mystring){
 
 Mystring operator-(const Mystring &mystring){
     char *buff = new char[strlen(mystring.str)+1];
-    for (size_t i=0; i<strlen(buff);++i){
-        buff[i] = tolower(buff[i]);
+    strcpy(buff, mystring.str);
+    for (size_t i=0; i<strlen(buff);i++){
+        buff[i] = std::tolower(buff[i]);
     }
     Mystring temp {buff};
     delete [] buff;
