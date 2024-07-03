@@ -28,13 +28,13 @@ class Mystring
     
     //(+=) concatinate the rhs string to the lhs string and stroe the resuls in lhs object
     //  s1+=s2; equavalien to s1 = s1+s2
-    friend Mystring operator+=(const Mystring &mystring1, const Mystring &mystring2);
+    friend Mystring operator+=(Mystring &mystring1, const Mystring &mystring2);
     
     //(*) repeat results in a string that is copied n times
     friend Mystring operator*(const Mystring &mystring1, const int &times);
     
     //(*=) repeat the string on the lhs n times and store the result back in the lhs object
-    friend Mystring operator*=(const Mystring &mystring1, const int &times);
+    friend Mystring operator*=( Mystring &mystring1, const int &times);
 private:
     char *str;
 public:
