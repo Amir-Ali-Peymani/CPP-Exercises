@@ -1,4 +1,24 @@
 [{
+  "file": "D:\\Projects\\C++\\Course\\Inheritence\\Deriving-Our-Firs-Class\\main.cpp",
+  "directory": "D:\\Projects\\C++\\Course\\Inheritence\\Deriving-Our-Firs-Class",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\Projects\\C++\\Course\\Inheritence\\Deriving-Our-Firs-Class\\main.cpp -o D:\\Projects\\C++\\Course\\Inheritence\\Deriving-Our-Firs-Class\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "D:\\Projects\\C++\\Course\\Inheritence\\Deriving-Our-Firs-Class\\Account.cpp",
+  "directory": "D:\\Projects\\C++\\Course\\Inheritence\\Deriving-Our-Firs-Class",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\Projects\\C++\\Course\\Inheritence\\Deriving-Our-Firs-Class\\Account.cpp -o D:\\Projects\\C++\\Course\\Inheritence\\Deriving-Our-Firs-Class\\Account.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "D:\\Projects\\C++\\Course\\Inheritence\\Deriving-Our-Firs-Class\\Savings_Account.hpp",
+  "directory": "D:\\Projects\\C++\\Course\\Inheritence\\Deriving-Our-Firs-Class",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\Projects\\C++\\Course\\Inheritence\\Deriving-Our-Firs-Class\\Savings_Account.hpp -o D:\\Projects\\C++\\Course\\Inheritence\\Deriving-Our-Firs-Class\\Savings_Account.hpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "D:\\Projects\\C++\\Course\\Inheritence\\Deriving-Our-Firs-Class\\Account.hpp",
+  "directory": "D:\\Projects\\C++\\Course\\Inheritence\\Deriving-Our-Firs-Class",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\Projects\\C++\\Course\\Inheritence\\Deriving-Our-Firs-Class\\Account.hpp -o D:\\Projects\\C++\\Course\\Inheritence\\Deriving-Our-Firs-Class\\Account.hpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "D:\\Projects\\C++\\Course\\Inheritence\\Deriving-Our-Firs-Class\\Savings_Account.cpp",
+  "directory": "D:\\Projects\\C++\\Course\\Inheritence\\Deriving-Our-Firs-Class",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\Projects\\C++\\Course\\Inheritence\\Deriving-Our-Firs-Class\\Savings_Account.cpp -o D:\\Projects\\C++\\Course\\Inheritence\\Deriving-Our-Firs-Class\\Savings_Account.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
   "file": "D:\\Projects\\C++\\Course\\Inheritence\\Challenge\\main.cpp",
   "directory": "D:\\Projects\\C++\\Course\\Inheritence\\Challenge",
   "command": "C:/mingw64/bin/g++.exe -c D:\\Projects\\C++\\Course\\Inheritence\\Challenge\\main.cpp -o D:\\Projects\\C++\\Course\\Inheritence\\Challenge\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
