@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Pointers" Database="" Version="10000">
+  <Project Name="Pointer" Path="Pointer/Pointer.project" Active="No"/>
+  <Project Name="SimplePointers" Path="SimplePointers/SimplePointers.project" Active="No"/>
+  <Project Name="Derefrencing" Path="Derefrencing/Derefrencing.project" Active="No"/>
+  <Project Name="DynamicMemory" Path="DynamicMemory/DynamicMemory.project" Active="No"/>
+  <Project Name="ArrayPointer" Path="ArrayPointer/ArrayPointer.project" Active="No"/>
+  <Project Name="ArithmeticPointer" Path="ArithmeticPointer/ArithmeticPointer.project" Active="No"/>
+  <Project Name="PassingPointerToFunction" Path="PassingPointerToFunction]/PassingPointerToFunction].project" Active="No"/>
+  <Project Name="ReturningPointer" Path="Test/Test.project" Active="No"/>
+  <Project Name="TestPointers" Path="TestPointers/TestPointers.project" Active="No"/>
+  <Project Name="Challenge" Path="Challenge/Challenge.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="Pointer" ConfigName="Debug"/>
+      <Project Name="SimplePointers" ConfigName="Debug"/>
+      <Project Name="Derefrencing" ConfigName="Debug"/>
+      <Project Name="DynamicMemory" ConfigName="Debug"/>
+      <Project Name="ArrayPointer" ConfigName="Debug"/>
+      <Project Name="ArithmeticPointer" ConfigName="Debug"/>
+      <Project Name="PassingPointerToFunction" ConfigName="Debug"/>
+      <Project Name="ReturningPointer" ConfigName="Debug"/>
+      <Project Name="TestPointers" ConfigName="Debug"/>
+      <Project Name="Challenge" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="Pointer" ConfigName="Release"/>
+      <Project Name="SimplePointers" ConfigName="Release"/>
+      <Project Name="Derefrencing" ConfigName="Release"/>
+      <Project Name="DynamicMemory" ConfigName="Release"/>
+      <Project Name="ArrayPointer" ConfigName="Release"/>
+      <Project Name="ArithmeticPointer" ConfigName="Release"/>
+      <Project Name="PassingPointerToFunction" ConfigName="Release"/>
+      <Project Name="ReturningPointer" ConfigName="Release"/>
+      <Project Name="TestPointers" ConfigName="Release"/>
+      <Project Name="Challenge" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

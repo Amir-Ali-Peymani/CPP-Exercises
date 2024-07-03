@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="OperatorOverloading" Database="" Version="10000">
+  <Project Name="YouTubeExercise01" Path="YouTubeExercise01/YouTubeExercise01.project" Active="No"/>
+  <Project Name="Mystring-copy-assignment" Path="Mystring-copy-assignment/Mystring-copy-assignment.project" Active="No"/>
+  <Project Name="Mystring-move-assignment" Path="Mystring-move-assignment/Mystring-move-assignment.project" Active="No"/>
+  <Project Name="Exercise" Path="Exercise/Exercise.project" Active="No"/>
+  <Project Name="Mystring-Member-function" Path="Mystring-Member-function/Mystring-Member-function.project" Active="No"/>
+  <Project Name="Mystring-Global-function" Path="Mystring-Global-function/Mystring-Global-function.project" Active="No"/>
+  <Project Name="Mystring-insertion-extraction" Path="Mystring-insertion-extraction/Mystring-insertion-extraction.project" Active="No"/>
+  <Project Name="Challenge" Path="Challenge/Challenge.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="YouTubeExercise01" ConfigName="Debug"/>
+      <Project Name="Mystring-copy-assignment" ConfigName="Debug"/>
+      <Project Name="Mystring-move-assignment" ConfigName="Debug"/>
+      <Project Name="Exercise" ConfigName="Debug"/>
+      <Project Name="Mystring-Member-function" ConfigName="Debug"/>
+      <Project Name="Mystring-Global-function" ConfigName="Debug"/>
+      <Project Name="Mystring-insertion-extraction" ConfigName="Debug"/>
+      <Project Name="Challenge" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="YouTubeExercise01" ConfigName="Release"/>
+      <Project Name="Mystring-copy-assignment" ConfigName="Release"/>
+      <Project Name="Mystring-move-assignment" ConfigName="Release"/>
+      <Project Name="Exercise" ConfigName="Release"/>
+      <Project Name="Mystring-Member-function" ConfigName="Release"/>
+      <Project Name="Mystring-Global-function" ConfigName="Release"/>
+      <Project Name="Mystring-insertion-extraction" ConfigName="Release"/>
+      <Project Name="Challenge" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

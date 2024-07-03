@@ -1,0 +1,1 @@
+../build-Debug/ArithmeticPointer/main.cpp.o   

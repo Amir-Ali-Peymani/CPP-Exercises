@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Fucntions" Database="" Version="10000">
+  <Project Name="Random" Path="Random/Random.project" Active="No"/>
+  <Project Name="Fucntions" Path="Fucntions/Fucntions.project" Active="No"/>
+  <Project Name="DefaultArgument" Path="DefaultArgument/DefaultArgument.project" Active="No"/>
+  <Project Name="OverloadingFunction" Path="OverloadingFunction/OverloadingFunction.project" Active="No"/>
+  <Project Name="PassingArrays" Path="PassingArrays/PassingArrays.project" Active="No"/>
+  <Project Name="PassByReference" Path="PassByReference/PassByReference.project" Active="No"/>
+  <Project Name="ScopeRules" Path="ScopeRules/ScopeRules.project" Active="No"/>
+  <Project Name="Challanege" Path="Challanege/Challanege.project" Active="Yes"/>
+  <Project Name="Recursion" Path="Recursion/Recursion.project" Active="No"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="Random" ConfigName="Debug"/>
+      <Project Name="Fucntions" ConfigName="Debug"/>
+      <Project Name="DefaultArgument" ConfigName="Debug"/>
+      <Project Name="OverloadingFunction" ConfigName="Debug"/>
+      <Project Name="PassingArrays" ConfigName="Debug"/>
+      <Project Name="PassByReference" ConfigName="Debug"/>
+      <Project Name="ScopeRules" ConfigName="Debug"/>
+      <Project Name="Challanege" ConfigName="Debug"/>
+      <Project Name="Recursion" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="Random" ConfigName="Release"/>
+      <Project Name="Fucntions" ConfigName="Release"/>
+      <Project Name="DefaultArgument" ConfigName="Release"/>
+      <Project Name="OverloadingFunction" ConfigName="Release"/>
+      <Project Name="PassingArrays" ConfigName="Release"/>
+      <Project Name="PassByReference" ConfigName="Release"/>
+      <Project Name="ScopeRules" ConfigName="Release"/>
+      <Project Name="Challanege" ConfigName="Release"/>
+      <Project Name="Recursion" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

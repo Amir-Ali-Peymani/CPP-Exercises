@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Variables" Database="" Version="10000">
+  <Project Name="SizeOfOperator" Path="SizeOfOperator/SizeOfOperator.project" Active="No"/>
+  <Project Name="Constants" Path="Constants/Constants.project" Active="No"/>
+  <Project Name="Challange" Path="Challange/Challange.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="SizeOfOperator" ConfigName="Debug"/>
+      <Project Name="Constants" ConfigName="Debug"/>
+      <Project Name="Challange" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="SizeOfOperator" ConfigName="Release"/>
+      <Project Name="Constants" ConfigName="Release"/>
+      <Project Name="Challange" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>

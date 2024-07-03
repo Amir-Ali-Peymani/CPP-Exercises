@@ -1,0 +1,1 @@
+../build-Debug/Mystring-Member-function/main.cpp.o ../build-Debug/Mystring-Member-function/Mystring.cpp.o   

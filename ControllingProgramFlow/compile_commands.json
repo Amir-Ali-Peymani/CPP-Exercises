@@ -1,0 +1,29 @@
+[{
+  "file": "D:\\Projects\\C++\\Course\\ControllingProgramFlow\\Test\\main.cpp",
+  "directory": "D:\\Projects\\C++\\Course\\ControllingProgramFlow\\Test",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\Projects\\C++\\Course\\ControllingProgramFlow\\Test\\main.cpp -o D:\\Projects\\C++\\Course\\ControllingProgramFlow\\Test\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "D:\\Projects\\C++\\Course\\ControllingProgramFlow\\Challenge\\main.cpp",
+  "directory": "D:\\Projects\\C++\\Course\\ControllingProgramFlow\\Challenge",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\Projects\\C++\\Course\\ControllingProgramFlow\\Challenge\\main.cpp -o D:\\Projects\\C++\\Course\\ControllingProgramFlow\\Challenge\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "D:\\Projects\\C++\\Course\\ControllingProgramFlow\\RangeBaseForLoop\\main.cpp",
+  "directory": "D:\\Projects\\C++\\Course\\ControllingProgramFlow\\RangeBaseForLoop",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\Projects\\C++\\Course\\ControllingProgramFlow\\RangeBaseForLoop\\main.cpp -o D:\\Projects\\C++\\Course\\ControllingProgramFlow\\RangeBaseForLoop\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "D:\\Projects\\C++\\Course\\ControllingProgramFlow\\ForLoop\\main.cpp",
+  "directory": "D:\\Projects\\C++\\Course\\ControllingProgramFlow\\ForLoop",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\Projects\\C++\\Course\\ControllingProgramFlow\\ForLoop\\main.cpp -o D:\\Projects\\C++\\Course\\ControllingProgramFlow\\ForLoop\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "D:\\Projects\\C++\\Course\\ControllingProgramFlow\\IfEnum\\main.cpp",
+  "directory": "D:\\Projects\\C++\\Course\\ControllingProgramFlow\\IfEnum",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\Projects\\C++\\Course\\ControllingProgramFlow\\IfEnum\\main.cpp -o D:\\Projects\\C++\\Course\\ControllingProgramFlow\\IfEnum\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "D:\\Projects\\C++\\Course\\ControllingProgramFlow\\ConditionalOperators\\main.cpp",
+  "directory": "D:\\Projects\\C++\\Course\\ControllingProgramFlow\\ConditionalOperators",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\Projects\\C++\\Course\\ControllingProgramFlow\\ConditionalOperators\\main.cpp -o D:\\Projects\\C++\\Course\\ControllingProgramFlow\\ConditionalOperators\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "D:\\Projects\\C++\\Course\\ControllingProgramFlow\\IfStatement\\main.cpp",
+  "directory": "D:\\Projects\\C++\\Course\\ControllingProgramFlow\\IfStatement",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\Projects\\C++\\Course\\ControllingProgramFlow\\IfStatement\\main.cpp -o D:\\Projects\\C++\\Course\\ControllingProgramFlow\\IfStatement\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }]

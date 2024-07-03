@@ -1,0 +1,89 @@
+[{
+  "file": "D:\\Projects\\C++\\Course\\OperatorOverloading\\Mystring-Global-function\\main.cpp",
+  "directory": "D:\\Projects\\C++\\Course\\OperatorOverloading\\Mystring-Global-function",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\Projects\\C++\\Course\\OperatorOverloading\\Mystring-Global-function\\main.cpp -o D:\\Projects\\C++\\Course\\OperatorOverloading\\Mystring-Global-function\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "D:\\Projects\\C++\\Course\\OperatorOverloading\\Mystring-Global-function\\Mystring.hpp",
+  "directory": "D:\\Projects\\C++\\Course\\OperatorOverloading\\Mystring-Global-function",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\Projects\\C++\\Course\\OperatorOverloading\\Mystring-Global-function\\Mystring.hpp -o D:\\Projects\\C++\\Course\\OperatorOverloading\\Mystring-Global-function\\Mystring.hpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "D:\\Projects\\C++\\Course\\OperatorOverloading\\Mystring-Global-function\\Mystring.cpp",
+  "directory": "D:\\Projects\\C++\\Course\\OperatorOverloading\\Mystring-Global-function",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\Projects\\C++\\Course\\OperatorOverloading\\Mystring-Global-function\\Mystring.cpp -o D:\\Projects\\C++\\Course\\OperatorOverloading\\Mystring-Global-function\\Mystring.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "D:\\Projects\\C++\\Course\\OperatorOverloading\\YouTubeExercise01\\main.cpp",
+  "directory": "D:\\Projects\\C++\\Course\\OperatorOverloading\\YouTubeExercise01",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\Projects\\C++\\Course\\OperatorOverloading\\YouTubeExercise01\\main.cpp -o D:\\Projects\\C++\\Course\\OperatorOverloading\\YouTubeExercise01\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "D:\\Projects\\C++\\Course\\OperatorOverloading\\Mystring-Member-function\\main.cpp",
+  "directory": "D:\\Projects\\C++\\Course\\OperatorOverloading\\Mystring-Member-function",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\Projects\\C++\\Course\\OperatorOverloading\\Mystring-Member-function\\main.cpp -o D:\\Projects\\C++\\Course\\OperatorOverloading\\Mystring-Member-function\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "D:\\Projects\\C++\\Course\\OperatorOverloading\\Mystring-Member-function\\Mystring.hpp",
+  "directory": "D:\\Projects\\C++\\Course\\OperatorOverloading\\Mystring-Member-function",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\Projects\\C++\\Course\\OperatorOverloading\\Mystring-Member-function\\Mystring.hpp -o D:\\Projects\\C++\\Course\\OperatorOverloading\\Mystring-Member-function\\Mystring.hpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "D:\\Projects\\C++\\Course\\OperatorOverloading\\Mystring-Member-function\\Mystring.cpp",
+  "directory": "D:\\Projects\\C++\\Course\\OperatorOverloading\\Mystring-Member-function",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\Projects\\C++\\Course\\OperatorOverloading\\Mystring-Member-function\\Mystring.cpp -o D:\\Projects\\C++\\Course\\OperatorOverloading\\Mystring-Member-function\\Mystring.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "D:\\Projects\\C++\\Course\\OperatorOverloading\\Mystring-move-assignment\\main.cpp",
+  "directory": "D:\\Projects\\C++\\Course\\OperatorOverloading\\Mystring-move-assignment",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\Projects\\C++\\Course\\OperatorOverloading\\Mystring-move-assignment\\main.cpp -o D:\\Projects\\C++\\Course\\OperatorOverloading\\Mystring-move-assignment\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "D:\\Projects\\C++\\Course\\OperatorOverloading\\Mystring-move-assignment\\Mystring.hpp",
+  "directory": "D:\\Projects\\C++\\Course\\OperatorOverloading\\Mystring-move-assignment",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\Projects\\C++\\Course\\OperatorOverloading\\Mystring-move-assignment\\Mystring.hpp -o D:\\Projects\\C++\\Course\\OperatorOverloading\\Mystring-move-assignment\\Mystring.hpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "D:\\Projects\\C++\\Course\\OperatorOverloading\\Mystring-move-assignment\\Mystring.cpp",
+  "directory": "D:\\Projects\\C++\\Course\\OperatorOverloading\\Mystring-move-assignment",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\Projects\\C++\\Course\\OperatorOverloading\\Mystring-move-assignment\\Mystring.cpp -o D:\\Projects\\C++\\Course\\OperatorOverloading\\Mystring-move-assignment\\Mystring.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "D:\\Projects\\C++\\Course\\OperatorOverloading\\Challenge\\Mystring.hpp",
+  "directory": "D:\\Projects\\C++\\Course\\OperatorOverloading\\Challenge",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\Projects\\C++\\Course\\OperatorOverloading\\Challenge\\Mystring.hpp -o D:\\Projects\\C++\\Course\\OperatorOverloading\\Challenge\\Mystring.hpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "D:\\Projects\\C++\\Course\\OperatorOverloading\\Challenge\\main.cpp",
+  "directory": "D:\\Projects\\C++\\Course\\OperatorOverloading\\Challenge",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\Projects\\C++\\Course\\OperatorOverloading\\Challenge\\main.cpp -o D:\\Projects\\C++\\Course\\OperatorOverloading\\Challenge\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "D:\\Projects\\C++\\Course\\OperatorOverloading\\Challenge\\Mystring.cpp",
+  "directory": "D:\\Projects\\C++\\Course\\OperatorOverloading\\Challenge",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\Projects\\C++\\Course\\OperatorOverloading\\Challenge\\Mystring.cpp -o D:\\Projects\\C++\\Course\\OperatorOverloading\\Challenge\\Mystring.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "D:\\Projects\\C++\\Course\\OperatorOverloading\\Mystring-insertion-extraction\\main.cpp",
+  "directory": "D:\\Projects\\C++\\Course\\OperatorOverloading\\Mystring-insertion-extraction",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\Projects\\C++\\Course\\OperatorOverloading\\Mystring-insertion-extraction\\main.cpp -o D:\\Projects\\C++\\Course\\OperatorOverloading\\Mystring-insertion-extraction\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "D:\\Projects\\C++\\Course\\OperatorOverloading\\Mystring-insertion-extraction\\Mystring.hpp",
+  "directory": "D:\\Projects\\C++\\Course\\OperatorOverloading\\Mystring-insertion-extraction",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\Projects\\C++\\Course\\OperatorOverloading\\Mystring-insertion-extraction\\Mystring.hpp -o D:\\Projects\\C++\\Course\\OperatorOverloading\\Mystring-insertion-extraction\\Mystring.hpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "D:\\Projects\\C++\\Course\\OperatorOverloading\\Mystring-insertion-extraction\\Mystring.cpp",
+  "directory": "D:\\Projects\\C++\\Course\\OperatorOverloading\\Mystring-insertion-extraction",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\Projects\\C++\\Course\\OperatorOverloading\\Mystring-insertion-extraction\\Mystring.cpp -o D:\\Projects\\C++\\Course\\OperatorOverloading\\Mystring-insertion-extraction\\Mystring.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "D:\\Projects\\C++\\Course\\OperatorOverloading\\Exercise\\main.cpp",
+  "directory": "D:\\Projects\\C++\\Course\\OperatorOverloading\\Exercise",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\Projects\\C++\\Course\\OperatorOverloading\\Exercise\\main.cpp -o D:\\Projects\\C++\\Course\\OperatorOverloading\\Exercise\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "D:\\Projects\\C++\\Course\\OperatorOverloading\\Exercise\\Mystring.hpp",
+  "directory": "D:\\Projects\\C++\\Course\\OperatorOverloading\\Exercise",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\Projects\\C++\\Course\\OperatorOverloading\\Exercise\\Mystring.hpp -o D:\\Projects\\C++\\Course\\OperatorOverloading\\Exercise\\Mystring.hpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "D:\\Projects\\C++\\Course\\OperatorOverloading\\Exercise\\Mystring.cpp",
+  "directory": "D:\\Projects\\C++\\Course\\OperatorOverloading\\Exercise",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\Projects\\C++\\Course\\OperatorOverloading\\Exercise\\Mystring.cpp -o D:\\Projects\\C++\\Course\\OperatorOverloading\\Exercise\\Mystring.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "D:\\Projects\\C++\\Course\\OperatorOverloading\\Mystring-copy-assignment\\main.cpp",
+  "directory": "D:\\Projects\\C++\\Course\\OperatorOverloading\\Mystring-copy-assignment",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\Projects\\C++\\Course\\OperatorOverloading\\Mystring-copy-assignment\\main.cpp -o D:\\Projects\\C++\\Course\\OperatorOverloading\\Mystring-copy-assignment\\main.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "D:\\Projects\\C++\\Course\\OperatorOverloading\\Mystring-copy-assignment\\Mystring.hpp",
+  "directory": "D:\\Projects\\C++\\Course\\OperatorOverloading\\Mystring-copy-assignment",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\Projects\\C++\\Course\\OperatorOverloading\\Mystring-copy-assignment\\Mystring.hpp -o D:\\Projects\\C++\\Course\\OperatorOverloading\\Mystring-copy-assignment\\Mystring.hpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "D:\\Projects\\C++\\Course\\OperatorOverloading\\Mystring-copy-assignment\\Mystring.cpp",
+  "directory": "D:\\Projects\\C++\\Course\\OperatorOverloading\\Mystring-copy-assignment",
+  "command": "C:/mingw64/bin/g++.exe -c D:\\Projects\\C++\\Course\\OperatorOverloading\\Mystring-copy-assignment\\Mystring.cpp -o D:\\Projects\\C++\\Course\\OperatorOverloading\\Mystring-copy-assignment\\Mystring.cpp.o -target x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0 -IC:\\mingw64\\include\\c++\\13.2.0\\x86_64-w64-mingw32 -IC:\\mingw64\\include\\c++\\13.2.0\\backward -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include -IC:\\mingw64\\include -IC:\\mingw64\\lib\\gcc\\x86_64-w64-mingw32\\13.2.0\\include-fixed -IC:\\mingw64\\x86_64-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }]

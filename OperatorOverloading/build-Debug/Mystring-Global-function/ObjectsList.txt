@@ -1,0 +1,1 @@
+../build-Debug/Mystring-Global-function/main.cpp.o ../build-Debug/Mystring-Global-function/Mystring.cpp.o   
