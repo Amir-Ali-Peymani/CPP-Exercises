@@ -2,19 +2,22 @@
 <CodeLite_Workspace Name="Polymorphism" Database="" Version="10000">
   <Project Name="The-Problem" Path="The-Problem/The-Problem.project" Active="No"/>
   <Project Name="Virtual-Function" Path="Virtual-Function/Virtual-Function.project" Active="No"/>
-  <Project Name="Virtual-Destructors" Path="Virtual-Destructors/Virtual-Destructors.project" Active="Yes"/>
+  <Project Name="Virtual-Destructors" Path="Virtual-Destructors/Virtual-Destructors.project" Active="No"/>
+  <Project Name="Base-Class-Reference" Path="Base-Class-Reference/Base-Class-Reference.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
       <Project Name="The-Problem" ConfigName="Debug"/>
       <Project Name="Virtual-Function" ConfigName="Debug"/>
       <Project Name="Virtual-Destructors" ConfigName="Debug"/>
+      <Project Name="Base-Class-Reference" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
       <Project Name="The-Problem" ConfigName="Release"/>
       <Project Name="Virtual-Function" ConfigName="Release"/>
       <Project Name="Virtual-Destructors" ConfigName="Release"/>
+      <Project Name="Base-Class-Reference" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>

@@ -1,8 +1,8 @@
 .PHONY: clean All
 
 All:
-	@echo "----------Building project:[ Virtual-Destructors - Debug ]----------"
-	@cd "Virtual-Destructors" && "$(MAKE)" -f  "Virtual-Destructors.mk"
+	@echo "----------Building project:[ Base-Class-Reference - Debug ]----------"
+	@cd "Base-Class-Reference" && "$(MAKE)" -f  "Base-Class-Reference.mk"
 clean:
-	@echo "----------Cleaning project:[ Virtual-Destructors - Debug ]----------"
-	@cd "Virtual-Destructors" && "$(MAKE)" -f  "Virtual-Destructors.mk" clean
+	@echo "----------Cleaning project:[ Base-Class-Reference - Debug ]----------"
+	@cd "Base-Class-Reference" && "$(MAKE)" -f  "Base-Class-Reference.mk" clean
