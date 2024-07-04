@@ -1,14 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CodeLite_Workspace Name="Polymorphism" Database="" Version="10000">
-  <Project Name="The-Problem" Path="The-Problem/The-Problem.project" Active="Yes"/>
+  <Project Name="The-Problem" Path="The-Problem/The-Problem.project" Active="No"/>
+  <Project Name="Virtual-Function" Path="Virtual-Function/Virtual-Function.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
       <Project Name="The-Problem" ConfigName="Debug"/>
+      <Project Name="Virtual-Function" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
       <Project Name="The-Problem" ConfigName="Release"/>
+      <Project Name="Virtual-Function" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
