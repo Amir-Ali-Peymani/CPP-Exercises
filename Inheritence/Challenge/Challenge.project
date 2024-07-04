@@ -93,6 +93,16 @@
     </Configuration>
   </Settings>
   <VirtualDirectory Name="src">
+    <File Name="Account_Util.cpp"/>
+    <File Name="Account_Util.hpp"/>
+    <File Name="Trust_Account.cpp"/>
+    <File Name="Trust_Account.hpp"/>
+    <File Name="Savings_Account.cpp"/>
+    <File Name="Savings_Account.hpp"/>
+    <File Name="Checking_Account.cpp"/>
+    <File Name="Checking_Account.hpp"/>
+    <File Name="Account.cpp"/>
+    <File Name="Account.hpp"/>
     <File Name="main.cpp"/>
   </VirtualDirectory>
 </CodeLite_Project>
