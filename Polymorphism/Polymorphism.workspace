@@ -3,7 +3,8 @@
   <Project Name="The-Problem" Path="The-Problem/The-Problem.project" Active="No"/>
   <Project Name="Virtual-Function" Path="Virtual-Function/Virtual-Function.project" Active="No"/>
   <Project Name="Virtual-Destructors" Path="Virtual-Destructors/Virtual-Destructors.project" Active="No"/>
-  <Project Name="Base-Class-Reference" Path="Base-Class-Reference/Base-Class-Reference.project" Active="Yes"/>
+  <Project Name="Base-Class-Reference" Path="Base-Class-Reference/Base-Class-Reference.project" Active="No"/>
+  <Project Name="Pure-Virtual-Functions" Path="Pure-Virtual-Functions/Pure-Virtual-Functions.project" Active="Yes"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">
       <Environment/>
@@ -11,6 +12,7 @@
       <Project Name="Virtual-Function" ConfigName="Debug"/>
       <Project Name="Virtual-Destructors" ConfigName="Debug"/>
       <Project Name="Base-Class-Reference" ConfigName="Debug"/>
+      <Project Name="Pure-Virtual-Functions" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release">
       <Environment/>
@@ -18,6 +20,7 @@
       <Project Name="Virtual-Function" ConfigName="Release"/>
       <Project Name="Virtual-Destructors" ConfigName="Release"/>
       <Project Name="Base-Class-Reference" ConfigName="Release"/>
+      <Project Name="Pure-Virtual-Functions" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
