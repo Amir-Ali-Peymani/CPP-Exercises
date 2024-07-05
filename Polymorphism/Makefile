@@ -1,8 +1,8 @@
 .PHONY: clean All
 
 All:
-	@echo "----------Building project:[ Pure-Virtual-Functions - Debug ]----------"
-	@cd "Pure-Virtual-Functions" && "$(MAKE)" -f  "Pure-Virtual-Functions.mk"
+	@echo "----------Building project:[ First-Interface - Debug ]----------"
+	@cd "First-Interface" && "$(MAKE)" -f  "First-Interface.mk"
 clean:
-	@echo "----------Cleaning project:[ Pure-Virtual-Functions - Debug ]----------"
-	@cd "Pure-Virtual-Functions" && "$(MAKE)" -f  "Pure-Virtual-Functions.mk" clean
+	@echo "----------Cleaning project:[ First-Interface - Debug ]----------"
+	@cd "First-Interface" && "$(MAKE)" -f  "First-Interface.mk" clean
