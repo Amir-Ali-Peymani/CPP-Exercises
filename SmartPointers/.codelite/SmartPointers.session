@@ -1,12 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Session Name="D:\Projects\C++\Course\SmartPointers\SmartPointers.workspace">
-  <int Value="0" Name="m_selectedTab"/>
+  <int Value="1" Name="m_selectedTab"/>
   <wxString Value="D:\Projects\C++\Course\SmartPointers\SmartPointers.workspace" Name="m_workspaceName"/>
   <TabInfoArray Name="TabInfoArray">
     <TabInfo>
       <wxString Value="D:\Projects\C++\Course\SmartPointers\UniquePointers\main.cpp" Name="FileName"/>
-      <int Value="43" Name="FirstVisibleLine"/>
-      <int Value="56" Name="CurrentLine"/>
+      <int Value="45" Name="FirstVisibleLine"/>
+      <int Value="3" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="D:\Projects\C++\Course\SmartPointers\SharedPointers\main.cpp" Name="FileName"/>
+      <int Value="60" Name="FirstVisibleLine"/>
+      <int Value="72" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="C:\mingw64\include\c++\13.2.0\bits\stl_construct.h" Name="FileName"/>
+      <int Value="188" Name="FirstVisibleLine"/>
+      <int Value="196" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="C:\mingw64\include\c++\13.2.0\bits\shared_ptr_base.h" Name="FileName"/>
+      <int Value="1063" Name="FirstVisibleLine"/>
+      <int Value="1071" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="C:\mingw64\include\c++\13.2.0\bits\alloc_traits.h" Name="FileName"/>
+      <int Value="940" Name="FirstVisibleLine"/>
+      <int Value="947" Name="CurrentLine"/>
+      <wxArrayString Name="Bookmarks"/>
+      <IntVector Name="CollapsedFolds"/>
+    </TabInfo>
+    <TabInfo>
+      <wxString Value="C:\mingw64\include\c++\13.2.0\bits\stl_vector.h" Name="FileName"/>
+      <int Value="726" Name="FirstVisibleLine"/>
+      <int Value="734" Name="CurrentLine"/>
       <wxArrayString Name="Bookmarks"/>
       <IntVector Name="CollapsedFolds"/>
     </TabInfo>
