@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="IO-Stream" Database="" Version="10000">
+  <Project Name="File-Reading-Writing" Path="File-Reading-Writing/File-Reading-Writing.project" Active="No"/>
+  <Project Name="Test" Path="Test/Test.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="File-Reading-Writing" ConfigName="Debug"/>
+      <Project Name="Test" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="File-Reading-Writing" ConfigName="Release"/>
+      <Project Name="Test" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
