@@ -1,7 +1,7 @@
-C++ Course: Concepts and Challenges Welcome to the C++ Course repository! This repository is designed to help you understand and master the key concepts of C++ programming through a series of workspaces, each containing targeted exercises and challenges.
+C++ Course: Concepts and Challenges Welcome to the C++ Course repository! This repository is designed to help you understand and master the key concepts of C++ programming through a series of workspaces, each containing targeted exercises and challenges which i have coded them myself in order to practice and learn C++ in better way
 
 TOPICS COVERED
-
+=============================================================================================================
 Operator Overloading:
 
 Operator overloading allows you to redefine the functionality of operators (such as +, -, *, etc.) for user-defined types. By overloading operators, you can specify how operators behave with objects of your classes, making them more intuitive and easy to use.
